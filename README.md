@@ -1,0 +1,2 @@
+# QiitaTrendBlocker
+QIitaのトレンドから特定のidを非表示にするChromeExtensionです。
